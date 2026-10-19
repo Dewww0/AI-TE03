@@ -84,9 +84,9 @@ Proyek ini dikembangkan secara berkelompok sebagai bagian dari pembelajaran mata
 
 | No. | Name | Student ID (NIM) | GitHub Username | Role |
 |---:|---|---|---|---|
-| 1 | [Deo Ferdiyansyah] | [NIM Manager] | [@username] | Manager |
+| 1 | [Deo Ferdiyansyah] | [101022430007] | [@dewww0] | Manager |
 | 2 | [Tegar Pambudi Hutomo] | [101022400219] | [@tegarph] | Dev_1 |
-| 3 | [M Amhari Septianto] | [NIM Dev_2] | [@username] | Dev_2 |
+| 3 | [M Amhari Septianto] | [101022400119] | [@muhamharisepy-alt] | Dev_2 |
 
 ### Team Responsibilities
 
