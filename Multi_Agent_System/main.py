@@ -1,4 +1,4 @@
-
+from planner_agent import PlannerAgent
 class PlannerAgent:
     """Agen yang membagi proyek menjadi beberapa tugas."""
 
