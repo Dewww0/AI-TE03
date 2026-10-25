@@ -1,4 +1,3 @@
-```python
 class PlannerAgent:
     """
     Agen yang bertugas merencanakan proyek
@@ -81,4 +80,3 @@ if __name__ == "__main__":
         planner.create_tasks(project_name)
     else:
         print("Nama proyek tidak boleh kosong.")
-```
