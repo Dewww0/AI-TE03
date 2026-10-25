@@ -29,8 +29,9 @@ Bertugas memeriksa status seluruh tugas dan menentukan hasil akhir proyek.
 1. Sistem menerima nama proyek.
 2. Planner Agent membagi proyek menjadi beberapa tugas.
 3. Worker Agent mengerjakan setiap tugas.
-4. Evaluator Agent memeriksa hasil pekerjaan.
-5. Sistem menampilkan status akhir proyek.
+4. Setiap agen memproses tugas yang diberikan secara mandiri.
+5. Evaluator Agent memeriksa hasil pekerjaan.
+6. Sistem menampilkan status akhir proyek.
 
 ## Teknologi
 - Bahasa pemrograman: Python 3
