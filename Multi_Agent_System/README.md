@@ -92,6 +92,16 @@ Contoh tersebut merupakan ilustrasi penggunaan sistem. Rincian tugas dan hasil y
 Program menampilkan proses perencanaan, pengerjaan, dan evaluasi
 tugas hingga menghasilkan status akhir proyek.
 
+1. Menerima nama proyek sebagai masukan.
+
+2. Membagi proyek menjadi beberapa tugas melalui Planner Agent.
+
+3. Memproses tugas melalui Worker Agent.
+
+4. Memeriksa status pengerjaan melalui Evaluator Agent.
+
+5. Menampilkan status akhir proyek berdasarkan hasil evaluasi.
+
 ## Pengembang
 | No. | Name | Student ID (NIM) | GitHub Username | Role |
 |---:|---|---|---|---|
