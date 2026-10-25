@@ -18,12 +18,27 @@ sebuah proyek menggunakan bahasa pemrograman Python.
 
 ### 1. Planner Agent
 Bertugas merencanakan proyek dan membagi pekerjaan menjadi beberapa tugas.
+Tugas utama Planner Agent:
+1. Menerima informasi mengenai proyek yang akan dikerjakan.
+2. Menyusun rencana pengerjaan proyek.
+3. Membagi proyek menjadi beberapa tugas.
+4. Menentukan daftar pekerjaan yang perlu dilaksanakan oleh Worker Agent.
 
 ### 2. Worker Agent
 Bertugas mengerjakan tugas yang diberikan oleh Planner Agent.
+Tugas utama Worker Agent:
+1. Menerima daftar tugas dari Planner Agent.
+2. Memproses tugas yang telah diberikan.
+3. Menghasilkan status atau hasil pengerjaan setiap tugas.
+4. Menyediakan informasi hasil pekerjaan untuk diperiksa oleh Evaluator Agent.
 
 ### 3. Evaluator Agent
 Bertugas memeriksa status seluruh tugas dan menentukan hasil akhir proyek.
+Tugas utama Evaluator Agent:
+1. Memeriksa status setiap tugas yang telah diproses.
+2. Mengevaluasi kelengkapan pengerjaan tugas.
+3. Menentukan status akhir proyek berdasarkan hasil pemeriksaan.
+4. Memberikan informasi mengenai hasil evaluasi proyek.
 
 ## Alur Kerja
 1. Sistem menerima nama proyek.
