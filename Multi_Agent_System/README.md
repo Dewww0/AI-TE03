@@ -10,8 +10,8 @@ sebuah proyek menggunakan bahasa pemrograman Python.
 
 ## Tujuan
 - Memahami konsep dasar Multi-Agent System.
-- Memahami pembagian tugas antaragen.
-- Menerapkan kerja sama agen dalam sebuah sistem.
+- Mempelajari cara beberapa agen berkomunikasi dan bekerja sama.
+- Menunjukkan pembagian tugas di antara agen yang berbeda.
 - Melakukan evaluasi terhadap hasil pekerjaan.
 
 ## Agen dalam Sistem
