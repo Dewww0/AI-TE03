@@ -50,12 +50,15 @@ Tugas utama Evaluator Agent:
 
 ## Teknologi
 1. Bahasa Pemrograman: Python 3
+
 Python digunakan untuk mengimplementasikan logika sistem, mengatur alur kerja, dan menjalankan fungsi setiap agen.
 
-2. Library: Python Standard Library
+3. Library: Python Standard Library
+
 Pustaka bawaan Python digunakan untuk mendukung fungsi dasar program tanpa harus bergantung pada pustaka eksternal tambahan, selama implementasinya memang hanya menggunakan pustaka standar.
 
-3. Platform: GitHub
+5. Platform: GitHub
+
 GitHub digunakan sebagai tempat penyimpanan kode sumber, dokumentasi, dan pengelolaan versi proyek.
 
 ## Cara Menjalankan
