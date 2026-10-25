@@ -61,7 +61,11 @@ Program menampilkan proses perencanaan, pengerjaan, dan evaluasi
 tugas hingga menghasilkan status akhir proyek.
 
 ## Pengembang
-Nama anggota kelompok dapat ditambahkan di bagian ini.
+| No. | Name | Student ID (NIM) | GitHub Username | Role |
+|---:|---|---|---|---|
+| 1 | Deo Ferdiyansyah | 101022430007 | @dewww0 | Manager |
+| 2 | Tegar Pambudi Hutomo | 101022400219 | @tegarph | Dev_1 |
+| 3 | M Amhari Septianto | 101022400119 | @muhamharisept-alt | Dev_2 |
 
 ## Kesimpulan
 Program ini menunjukkan konsep dasar Multi-Agent System melalui
