@@ -78,7 +78,12 @@ python3 main.py
 ```
 
 ## Contoh Proyek
-Pembuatan Sistem Informasi Sederhana.
+Pembuatan Sistem Informasi Sederhana. Misal, pengguna memasukkan nama proyek "Pembuatan Sistem Informasi Perpustakaan".
+
+Planner Agent: Membagi proyek menjadi beberapa tugas, seperti perencanaan fitur, pengelolaan data buku, pengelolaan data pengguna, dan penyusunan laporan.
+Worker Agent: Memproses tugas-tugas yang telah dibagikan oleh Planner Agent.
+Evaluator Agent: Memeriksa status pengerjaan tugas dan menentukan status akhir proyek berdasarkan hasil evaluasi.
+Contoh tersebut merupakan ilustrasi penggunaan sistem. Rincian tugas dan hasil yang sebenarnya bergantung pada implementasi program dalam main.py.
 
 ## Hasil yang Diharapkan
 Program menampilkan proses perencanaan, pengerjaan, dan evaluasi
