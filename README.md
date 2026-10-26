@@ -119,7 +119,7 @@ Proyek ini dikembangkan secara berkelompok sebagai bagian dari pembelajaran mata
 |---:|---|---|---|---|
 | 1 | Deo Ferdiyansyah | 101022430007 | @dewww0 | Manager |
 | 2 | Tegar Pambudi Hutomo | 101022400219 | @tegarph | Dev_1 |
-| 3 | M Amhari Septianto | 101022400119 | @muhamharisept-alt | Dev_2 |
+| 3 | Muhammad Amhari Septianto | 101022400119 | @muhamharisept-alt | Dev_2 |
 
 ### Team Responsibilities
 
